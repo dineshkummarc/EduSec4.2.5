@@ -7,11 +7,9 @@ Almost all departments within education industry (e. g. admission, administratio
 
 EduSec helps to assign the responsibilities to employee staff and can reduce time wastage and can speed up the administrative functions. Core functions like admissions, library management, transport management, students attendance in short entire range of university functions can be well performed by EduSec.
 
-
 DOCUMENTATION AND SUPPORT
 -------------------------
 * www.rudrasoftech.com/forum
-
 
 SYSTEM REQUIREMENTS
 -------------------
@@ -22,7 +20,6 @@ SYSTEM REQUIREMENTS
 * PHP 5.4.0 or later
 * PHP must be run as the same system user that owns the directory 
   where EduSec will be installed.
-
 
 QUICK INSTALL
 -------------
@@ -48,7 +45,6 @@ up and running :
    creating an admin user account and institute setup etc.    
 
 5. You are now ready to use EduSec.
-
 
 MANUAL INSTALLATION
 -------------------
@@ -85,7 +81,6 @@ which need to go following step to done:
    creating an admin user account and institute setup etc.      
 
 7. You are now ready to use EduSec.
-
 
 DEMO/SAMPLE DATABASE USERS DETAILS 
 ---------------------------------- 
